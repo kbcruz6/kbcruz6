@@ -10,8 +10,7 @@
 
 🌎 I enjoy a lot travelling & I would love to work remotely. Visit new places, practice trekking, snowboard and swim are my passions, I really love nature life.
 
-
-
+<a target="_blank" href="https://kbcruz.github.io">Let's check my Resume!</a> 
 <!--
 **kbcruz6/kbcruz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
