@@ -4,7 +4,7 @@
 
 ✅ As a highly motivated person who have an advanced English level and experience working in the United States for 4 years, I am looking for new challenges in IT & development areas, to continue growing professionally and personally.
 
-💻 That's why I am currently directing my profile towards web development, having studied HTML5, CSS, JavaScript and GitHub. I am also learning React and I have knowledge of web SEO. 
+💻 That's why I am currently directing my profile towards web development, having studied HTML5, CSS, JavaScript, React js and GitHub. I also have knowledge of web SEO. 
 
 🙋🏻‍♂️ I am very curious, perfectionist, resilient and an Engineer, what is super useful in this environment to face the daily challenges and solve problems. I have creative thinking, ability to learn quickly and flexibility to continuous change. 
 
