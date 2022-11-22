@@ -13,14 +13,10 @@ I enjoy a lot travelling & I would love to work remotely. Visit new places, know
 ✅ Portfolio, with the Web CV, Some React Apps, a Mix of JavaScript little projects, etc.: 
 https://kbcruz6.github.io/
 
-✅GitHub:
-https://github.com/kbcruz6
-
 Currently learning Next.js 💪🏻
 
 Enjoy the journey!
 
-<a href="https://kbcruz6.github.io" target="_blank">Let's check my Resume!</a> 
 <!--
 **kbcruz6/kbcruz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
