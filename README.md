@@ -1,6 +1,6 @@
-### Hi there, welcome to my profile! 👋
+## Hi there, welcome to my profile! 👋
 
-### I am Agustin Cruz, a Front End Developer & Industrial Engineer
+## I am Agustin Cruz, a Front End Developer & Industrial Engineer
 
 I am a highly motivated human being looking for new challenges in IT & development areas, to continue growing professionally and personally.
 
