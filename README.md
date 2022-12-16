@@ -1,6 +1,6 @@
-### Hi there, welcome to my profile! 👋
+## Here we are! Welcome to my profile! 👋
 
-## I am Agustin Cruz, a Front End Developer & Industrial Engineer
+# I am Agustin Cruz, a Front End Developer & Industrial Engineer
 
 I am a highly motivated human being looking for new challenges in IT & development areas, to continue creating solutions and growing professionally and personally.
 
@@ -11,7 +11,7 @@ I am a highly motivated human being looking for new challenges in IT & developme
 I enjoy a lot travelling & I would love to work remotely. Visit new places, knowing new people, and practice trekking are my passions, I really love nature life.
 
 ✅ Portfolio, with the Web CV, Some React Apps, a Mix of JavaScript little projects, etc.: 
-https://kbcruz6.github.io/
+https://portfolio-agustincruz.vercel.app/
 
 Currently learning Next.js 💪🏻
 
