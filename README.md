@@ -1,8 +1,8 @@
-## Hi there, welcome to my profile! 👋
+### Hi there, welcome to my profile! 👋
 
 ## I am Agustin Cruz, a Front End Developer & Industrial Engineer
 
-I am a highly motivated human being looking for new challenges in IT & development areas, to continue growing professionally and personally.
+I am a highly motivated human being looking for new challenges in IT & development areas, to continue creating solutions and growing professionally and personally.
 
 💻 That's why I directed my profile towards web development, having studied HTML, CSS, JavaScript, React.js and GitHub. (I also have knowledge of Node.js, Express.js, web SEO & Blockchain). 
 
